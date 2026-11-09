@@ -3,7 +3,7 @@ import traceback
 
 st.set_page_config(page_title="Medienos Skaičiuoklė", layout="wide", page_icon="🪵")
 
-st.title("🪵 Universali Medienos Skaičiuoklė (Debug Režimas)")
+st.title("🪵 JUNDA Universali Medienos Skaičiuoklė (v1)")
 
 # ---------------------------------------------------------
 # GLOBALUS KLAIDŲ PAGAVIMAS (TRY / EXCEPT + ST.STOP)
